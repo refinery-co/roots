@@ -63,6 +63,12 @@ Primary sources cited in each protocol file. Recurring references:
 
 ---
 
+## Connect
+
+**Instagram:** [@refineryroots](https://www.instagram.com/refineryroots)
+
+---
+
 ## Contributing
 
 This is a living document. If you find an error, a better source, or a protocol gap — open an issue or PR. Cite your source.
