@@ -8,11 +8,13 @@
 
 ## Mix
 
-| Ingredient | Amount |
-|---|---|
-| Captain Jack's Deadbug Brew (or Monterey Garden Insect Spray) | 4ml (1 tsp) |
+| Ingredient | 1 gal | 32 oz | 16 oz |
+|---|---|---|---|
+| Captain Jack's Deadbug Brew (or Monterey Garden Insect Spray) | 4ml (1 tsp) | 1ml | 0.5ml |
 
 **pH target:** 6.0–6.5 (adjust with pH down before adding spinosad)
+
+**Practical batch size:** 32oz minimum — 0.5ml at 16oz is hard to measure without a micropipette. Mix only what you'll use in one session. Spinosad degrades with UV exposure — discard any leftover, do not store.
 
 ---
 

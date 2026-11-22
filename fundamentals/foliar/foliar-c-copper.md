@@ -8,11 +8,13 @@
 
 ## Mix
 
-| Ingredient | Amount |
-|---|---|
-| Bonide Liquid Copper Fungicide | 15–30ml (0.5–1 oz) |
+| Ingredient | 1 gal | 32 oz | 16 oz |
+|---|---|---|---|
+| Bonide Liquid Copper Fungicide | 15–30ml | 4–8ml | 2–4ml |
 
 **pH target:** 6.5–7.0 (higher than other sprays)
+
+**Practical batch size:** 32oz is fine — copper doses at this scale are easy to measure. Mix only what you'll use. Copper solution is stable 24–48 hours but there's no reason to store it.
 
 ---
 

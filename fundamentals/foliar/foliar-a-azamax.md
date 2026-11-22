@@ -7,16 +7,18 @@
 
 ## Mix Order — Add in This Sequence
 
-| Ingredient | Amount |
-|---|---|
-| TPS Silica Gold | 8ml |
-| **— WAIT 30 MINUTES —** | |
-| Bloom City Clean Kelp | 8ml |
-| Foliage Pro 9-3-6 | 1ml |
-| GH Azamax | 0.5–1 oz (15–30ml) |
-| Peppermint Soap | 3–4 drops |
+| Ingredient | 1 gal | 32 oz | 16 oz |
+|---|---|---|---|
+| TPS Silica Gold | 8ml | 2ml | 1ml |
+| **— WAIT 30 MINUTES —** | | | |
+| Bloom City Clean Kelp | 8ml | 2ml | 1ml |
+| Foliage Pro 9-3-6 | 1ml | 3–4 drops | 1–2 drops |
+| GH Azamax | 15–30ml | 4–8ml | 2–4ml |
+| Peppermint Soap | 3–4 drops | 1 drop | 1 drop |
 
 **pH target:** 6.0–6.5
+
+**Practical batch size:** 32oz is the recommended minimum. Foliage Pro and peppermint soap are hard to measure accurately below that. Mix only what you'll use — Azamax solution is good for 24–48 hours covered and out of light, but kelp degrades after 24 hours so don't store longer than that.
 
 ---
 

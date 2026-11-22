@@ -7,14 +7,16 @@
 
 ## Mix Order — Add in This Sequence
 
-| Ingredient | Amount |
-|---|---|
-| TPS Silica Gold | 8ml |
-| **— WAIT 30 MINUTES —** | |
-| Bloom City Clean Kelp | 8ml |
-| Foliage Pro 9-3-6 | 1ml |
+| Ingredient | 1 gal | 32 oz | 16 oz |
+|---|---|---|---|
+| TPS Silica Gold | 8ml | 2ml | 1ml |
+| **— WAIT 30 MINUTES —** | | | |
+| Bloom City Clean Kelp | 8ml | 2ml | 1ml |
+| Foliage Pro 9-3-6 | 1ml | 3–4 drops | 1–2 drops |
 
 **pH target:** 6.0–6.5
+
+**Practical batch size:** 32oz recommended. Foliage Pro is difficult to measure accurately below 3–4 drops — if you're running 16oz consistently, consider dropping Foliage Pro from the foliar spray and relying on it in the drench rotation instead. Silica and kelp carry the foliar benefit either way. Mix only what you'll use — kelp degrades within 24 hours in solution.
 
 ---
 
