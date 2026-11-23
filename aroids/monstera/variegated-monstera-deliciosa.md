@@ -2,8 +2,11 @@
 
 > Prices are USA market rates for 3+ leaf, A+ variegation specimens as of October 2024. Treat as a baseline, not a quote — the market moves.
 
-Source: Pretty in Green, October 14 2024. Research and photo credits: Mike D'Andrea, Chris (Pretty in Green).
-Original: https://prettyingreen.com/blogs/plant-tea/variegated-monstera-deliciosa-guide
+Sources:
+- Pretty in Green written guide, October 14 2024: https://prettyingreen.com/blogs/plant-tea/variegated-monstera-deliciosa-guide
+- Companion video, October 13 2024: https://youtu.be/xFNWExiZIrs
+
+Research and photo credits: Mike D'Andrea (@mda1635), Joshua Melia, Chris (Pretty in Green).
 
 ---
 
@@ -21,6 +24,7 @@ Original: https://prettyingreen.com/blogs/plant-tea/variegated-monstera-delicios
 
 ### Large Form Albo variegata
 - **Variegation:** Same as standard Albo, but with stacked nodes (0.5–2cm internodal spacing), winged geniculums, inner perforations.
+- **Large form identifier:** Stacked nodes are the definitive tell -- internodal spacing of 0.5–2cm between nodes. Easy to miss and commonly misidentified.
 - **Origin:** Unknown
 - **USA price:** $800–$1,800
 
@@ -101,6 +105,7 @@ Original: https://prettyingreen.com/blogs/plant-tea/variegated-monstera-delicios
 
 ### Siam Mint
 - **Variegation:** Hunter green base with yellow variegation in mint-like pattern throughout.
+- **Lineage:** Likely Mint lineage -- not Thai Con as previously suggested. Visual similarity to white monster but with yellow/green variegation instead of white. (Chris, Pretty in Green video Oct 2024: "I'm starting to think it comes from the Mint and not the Thai Con.")
 - **Origin:** Unknown
 - **USA price:** $3,000–$6,000
 
