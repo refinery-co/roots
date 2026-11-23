@@ -22,6 +22,12 @@ Research and photo credits: Mike D'Andrea (@mda1635), Joshua Melia, Chris (Prett
 - **Origin:** Unknown
 - **USA price:** $125–$240
 
+### Albo variegata — White Tiger
+- **Variegation:** Sectorial Albo with tiger-stripe patterning -- green stripes bleed back through large white/cream sectorial patches, creating a two-tone striped effect. Distinct from standard half-moon Albo where the break between green and white is cleaner.
+- **Note:** Trade name, not a registered cultivar. A presentation variant of Albo variegata, not a separate lineage. Commonly sold as "Albo Tiger" or "White Tiger."
+- **Origin:** Albo sport, presentation selected/named in trade
+- **USA price:** $75–$300+ depending on variegation level and size
+
 ### Large Form Albo variegata
 - **Variegation:** Same as standard Albo, but with stacked nodes (0.5–2cm internodal spacing), winged geniculums, inner perforations.
 - **Large form identifier:** Stacked nodes are the definitive tell -- internodal spacing of 0.5–2cm between nodes. Easy to miss and commonly misidentified.
@@ -209,6 +215,7 @@ Research and photo credits: Mike D'Andrea (@mda1635), Joshua Melia, Chris (Prett
 |---|---|---|
 | Standard Thai Con | Tissue culture | $30–$80 |
 | Albo Sectorial | Sport | $125–$225 |
+| Albo White Tiger | Sport (trade name) | $75–$300+ |
 | Albo Marbled | Sport | $125–$240 |
 | Aurea Sectorial | Sport | $150–$250 |
 | Aurea Marbled | Sport | $125–$240 |
